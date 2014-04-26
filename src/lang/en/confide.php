@@ -46,14 +46,14 @@ return array(
 
     'email' => array(
         'account_confirmation' => array(
-            'subject' => 'Account Confirmation',
+            'subject' => 'Potvrdite nalog // GIN.ba',
             'greetings' => 'Hello :name',
             'body' => 'Please access the link below to confirm your account.',
             'farewell' => 'Regards',
         ),
 
         'password_reset' => array(
-            'subject' => 'Password Reset',
+            'subject' => 'Reset lozinke // GIN.ba',
             'greetings' => 'Hello :name',
             'body' => 'Access the following link to change your password',
             'farewell' => 'Regards',
